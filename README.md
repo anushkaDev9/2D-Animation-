@@ -40,3 +40,9 @@ method calls a function at specified intervals (in milliseconds)<br/>
 </details>
 
 # Preview :🎥
+
+
+
+https://github.com/anushkaDev9/2D-Animation-/assets/83566191/e4ff8e00-ecf3-4087-aa5d-d2f7ab58e8c2
+
+
