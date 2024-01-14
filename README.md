@@ -5,7 +5,7 @@ Two-dimensional animation featuring bouncing balls with varying colors and speed
 - `CSS`<br/>
 - `JS`<br/>
 # How It Works :🖱️
-When you click on the add balls button differnt balls comeon screen with different speed and change random colors.<br/>
+When you click on the add balls button different balls comeon screen with different speed and change random colors.<br/>
 # New Topic Leanrt
 <details>
 <summary>getContext('2d')</summary>
