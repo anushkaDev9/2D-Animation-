@@ -10,7 +10,6 @@ When you hover your mouse over the burger icon or click on it, the burger's part
 <details>
 <summary>getContext('2d')</summary>
 • **Purpose**: This line of JavaScript code retrieves a 2D drawing context for a canvas element, allowing you to create 2D graphics on that canvas.<br/>
-![image](https://github.com/anushkaDev9/2D-Animation-/assets/83566191/830e0d82-c741-4b48-a16f-af33f3569cb9).<br/>
 - • getContext() is a method that returns a drawing context object, which provides the tools for drawing on the canvas.<br/>
 - '2d': This argument specifies that you want a 2D drawing context. Other possible contexts include 'webgl' for 3D graphics and 'webgl2' for advanced 3D graphics.<br/>
 </details>
