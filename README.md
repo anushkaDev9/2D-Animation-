@@ -5,7 +5,7 @@ Two-dimensional animation featuring bouncing balls with varying colors and speed
 - `CSS`<br/>
 - `JS`<br/>
 # How It Works :🖱️
-When you hover your mouse over the burger icon or click on it, the burger's parts, like the bun, lettuce, and tomato, get separated and move around.
+When you click on the add balls button differnt balls comeon screen with different speed and change random colors.<br/>
 # New Topic Leanrt
 <details>
 <summary>getContext('2d')</summary>
