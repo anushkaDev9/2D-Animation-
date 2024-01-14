@@ -1,4 +1,4 @@
-# Animated Balls
+# Animated Balls :🎱
 Two-dimensional animation featuring bouncing balls with varying colors and speeds 
 # Tech Stack :🖥️
 - `HTML`<br/>
