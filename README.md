@@ -1,7 +1,7 @@
 # Animated Balls
 Two-dimensional animation featuring bouncing balls with varying colors and speeds 
 # Tech Stack :🖥️
-- <mark>HTML</mark><br/>
+- ==HTML==<br/>
 - <mark>CSS</mark><br/>
 - <mark>JS</mark><br/>
 # How It Works :🖱️
