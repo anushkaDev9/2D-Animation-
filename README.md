@@ -1,9 +1,9 @@
 # Animated Balls
 Two-dimensional animation featuring bouncing balls with varying colors and speeds 
 # Tech Stack :🖥️
-- <pre>HTML</pre><br/>
-- <pre>CSS</pre><br/>
-- <pre>JS</pre><br/>
+- <mark>HTML</mark><br/>
+- <mark>CSS</mark><br/>
+- <mark>JS</mark><br/>
 # How It Works :🖱️
 When you hover your mouse over the burger icon or click on it, the burger's parts, like the bun, lettuce, and tomato, get separated and move around.
 # New Topic Leanrt
@@ -22,11 +22,11 @@ When you hover your mouse over the burger icon or click on it, the burger's part
   </pre>
 </details>
 <details>
-  <summary>context.arc(x, y, 10, 0, Math.PI * 2, true);</summary>
+  <summary> beginPath()</summary>
  beginPath() starts a new path or resets an existing path on a 2D canvas context.<br/>
 </details>
 <details>
-  <summary>beginPath()</summary>
+  <summary>context.arc(x, y, 10, 0, Math.PI * 2, true);</summary>
  x: The x-coordinate of the circle's center.<br/>
 y: The y-coordinate of the circle's center.<br/>
 10: The radius of the circle (in pixels).<br/>
