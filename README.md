@@ -38,4 +38,5 @@ true: Specifies that the arc should be drawn counterclockwise.<br/>
   <summary>setInterval()</summary>
 method calls a function at specified intervals (in milliseconds)<br/>
 </details>
-## Preview :🎥
+
+# Preview :🎥
