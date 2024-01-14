@@ -2,8 +2,8 @@
 Two-dimensional animation featuring bouncing balls with varying colors and speeds 
 # Tech Stack :🖥️
 - `HTML`<br/>
-- <mark>CSS</mark><br/>
-- <mark>JS</mark><br/>
+- `CSS`<br/>
+- `JS`<br/>
 # How It Works :🖱️
 When you hover your mouse over the burger icon or click on it, the burger's parts, like the bun, lettuce, and tomato, get separated and move around.
 # New Topic Leanrt
