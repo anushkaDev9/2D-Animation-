@@ -34,3 +34,8 @@ y: The y-coordinate of the circle's center.<br/>
 Math.PI * 2: The ending angle of the arc, equal to 2π radians, which completes a full circle.<br/>
 true: Specifies that the arc should be drawn counterclockwise.<br/>
 </details>
+<details>
+  <summary>setInterval()</summary>
+method calls a function at specified intervals (in milliseconds)<br/>
+</details>
+## Preview :🎥
